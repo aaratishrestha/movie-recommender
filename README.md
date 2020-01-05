@@ -1,0 +1,1 @@
+ movie-recommender is a project that recommends movie to users on the basis of other users' rating. The link of the data that has been used for this project:https://grouplens.org/datasets/movielens/1m/ .    
